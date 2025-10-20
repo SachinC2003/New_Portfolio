@@ -82,7 +82,7 @@ function Projects() {
               isBlog={false}
               title="GestureVoice"
               description="An ISL (Indian Sign Language) recognition platform can be created using Convolutional Neural Networks (CNN), Tkinter for the GUI, and MediaPipe for real-time hand landmark detection. MediaPipe detects hand keypoints from live video input, CNN processes these keypoints/images to classify ISL signs, and Tkinter provides a user-friendly interface to display the recognized signs in real-time."
-              ghLink="https://github.com/abhishekujale/GestureVoice"
+              ghLink="https://github.com/SachinC2003/GestureVoice"
               demoLink="https://youtu.be/c94HecXZK9E"
             //  <--------Please include a demo link here 
             />
